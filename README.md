@@ -149,6 +149,15 @@ teaching.question
 
 ---
 
+## Currently Working On
+
+- Building cleaner backend systems with Python, Django, FastAPI, and PostgreSQL
+- Researching Swahili image captioning for low-resource language AI
+- Turning AI/ML experiments into usable software systems
+- Teaching programming, databases, web development, and software engineering
+
+---
+
 ## Selected Work
 
 <table>
