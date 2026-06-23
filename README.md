@@ -49,6 +49,9 @@ next.target        production ML
   <a href="https://www.linkedin.com/in/philip-meen/">
     <img src="https://img.shields.io/badge/LinkedIn-Philip%20Meen-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:meenphilip@gmail.com">
+    <img src="https://img.shields.io/badge/Email-meenphilip%40gmail.com-DC2626?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/meendo_95/">
     <img src="https://img.shields.io/badge/Instagram-meendo__95-DC2626?style=flat-square&logo=instagram&logoColor=white" />
   </a>
@@ -237,6 +240,9 @@ learning     production-grade AI/ML engineering workflows
   </a>
   <a href="https://github.com/meenphilip">
     <img src="https://img.shields.io/badge/Explore%20my%20repositories-GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:meenphilip@gmail.com">
+    <img src="https://img.shields.io/badge/Email-meenphilip%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/meendo_95/">
     <img src="https://img.shields.io/badge/Instagram-meendo__95-DC2626?style=for-the-badge&logo=instagram&logoColor=white" />
