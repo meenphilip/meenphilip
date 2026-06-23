@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,45:0B1020,100:2563EB&height=180&section=header&text=Philip%20Meen%20Madhang&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Researcher%20%7C%20Computing%20Lecturer&descAlignY=60&descSize=16" width="100%" alt="Philip Meen Madhang"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,45:0B1020,100:2563EB&height=180&section=header&text=Philip%20Meen%20Madhang&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Computing%20Lecturer&descAlignY=60&descSize=16" width="100%" alt="Philip Meen Madhang"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=22&pause=1000&color=DC2626&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+Kenya;AI+Researcher+%7C+Deep+Learning+%26+NLP;Computing+Lecturer+%7C+JKUAT;Django+%7C+FastAPI+%7C+React+%7C+Next.js;Building+practical+software+and+AI+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=22&pause=1000&color=DC2626&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+Kenya;AI+%26+ML+Engineer+%7C+Deep+Learning+%26+NLP;Computing+Lecturer+%7C+JKUAT;Django+%7C+FastAPI+%7C+React+%7C+Next.js;Building+practical+software+and+AI+systems" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -28,12 +28,12 @@
 
 ## Who I Am
 
-I am **Philip Meen Madhang**, a **Software Developer**, **AI Researcher**, and **Computing Lecturer** based in Kenya. I build web applications, backend systems, APIs, databases, and intelligent software solutions that solve practical problems.
+I am **Philip Meen Madhang**, a **Software Developer**, **AI & ML Engineer**, **AI Researcher**, and **Computing Lecturer** based in Kenya. I build web applications, backend systems, APIs, databases, and intelligent software solutions that solve practical problems.
 
 My MSc research focuses on **Swahili Image Caption Generation using Deep Learning for low-resource languages**, combining Computer Vision, Natural Language Processing, and Machine Learning to support accessibility and digital inclusion for African languages.
 
 - Software developer with experience in web apps, APIs, ERP systems, and database-driven platforms
-- AI researcher working across Computer Vision, NLP, Machine Learning, and Deep Learning
+- AI & ML engineer and researcher working across Computer Vision, NLP, Machine Learning, and Deep Learning
 - Computing lecturer mentoring learners in programming, databases, web development, and software engineering
 - Builder focused on clean architecture, maintainability, and real-world usability
 
@@ -46,7 +46,7 @@ My MSc research focuses on **Swahili Image Caption Generation using Deep Learnin
 ```
 Backend Systems       ->  Django, FastAPI, REST APIs, databases, ERP workflows
 Frontend Apps         ->  React, Next.js, JavaScript, TypeScript, Tailwind CSS
-AI Research           ->  Image captioning, NLP, Computer Vision, deep learning
+AI & ML Engineering   ->  Image captioning, NLP, Computer Vision, deep learning
 Teaching & Mentorship ->  Programming, databases, web development, software engineering
 ```
 
