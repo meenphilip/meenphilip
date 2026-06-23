@@ -49,6 +49,12 @@ next.target        production ML
   <a href="https://www.linkedin.com/in/philip-meen/">
     <img src="https://img.shields.io/badge/LinkedIn-Philip%20Meen-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/meendo_95/">
+    <img src="https://img.shields.io/badge/Instagram-meendo__95-DC2626?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@meendo_95">
+    <img src="https://img.shields.io/badge/TikTok-meendo__95-0B1020?style=flat-square&logo=tiktok&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML%20Engineering-DC2626?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-Django%20%7C%20FastAPI%20%7C%20React-0B1020?style=flat-square" />
 </p>
@@ -231,6 +237,12 @@ learning     production-grade AI/ML engineering workflows
   </a>
   <a href="https://github.com/meenphilip">
     <img src="https://img.shields.io/badge/Explore%20my%20repositories-GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/meendo_95/">
+    <img src="https://img.shields.io/badge/Instagram-meendo__95-DC2626?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@meendo_95">
+    <img src="https://img.shields.io/badge/TikTok-meendo__95-0B1020?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
