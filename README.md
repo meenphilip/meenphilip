@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:DC2626,50:0B1020,100:2563EB&text=Philip%20Meen%20Madhang&fontColor=FFFFFF&fontSize=40&fontAlign=50&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Computing%20Lecturer&descSize=16&descAlign=50&descAlignY=58&rotate=0" width="100%" alt="Philip Meen Madhang profile header"/>
+  <h1>Philip Meen Madhang</h1>
+  <h3>Software Developer | AI & ML Engineer | Computing Lecturer</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Backend-0B1020?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/AI%20%26%20ML-DC2626?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Research-2563EB?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Teaching-0B1020?style=for-the-badge" />
+  </p>
 </div>
 
 <div align="center">
